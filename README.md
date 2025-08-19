@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi there 🤝, nice to meet you.
+
+I'm SRE(Site Reliability Engineer), that love automation, and debug / monitor production issues, with another sometimes goes to another title of DevOps / DevSecOps / Platform Engineers. I have a passion on automation, monitoring, and security in mind.
+
 
 <!--
 **kholisrag/kholisrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
